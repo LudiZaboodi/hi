@@ -43,7 +43,7 @@ end
 local Padding = 10;
 local DescriptionPadding = 10;
 local InstructionObjects = {};
-local TweenTime = 1;
+local TweenTime = 0.3;
 local TweenStyle = Enum.EasingStyle.Sine;
 local TweenDirection = Enum.EasingDirection.Out;
 
